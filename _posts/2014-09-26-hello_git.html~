@@ -1,0 +1,6 @@
+---
+layout:default
+title: hi, git! tc say hello~
+---
+
+<h2>{{page.title}}</h2>
